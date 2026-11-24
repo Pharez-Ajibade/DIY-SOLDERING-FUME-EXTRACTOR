@@ -1,5 +1,5 @@
 **# DIY Cordless Soldering Fume Extractor**
-<img width="4000" height="2252" alt="20261120_102043" src="https://github.com/user-attachments/assets/2d73c2b1-b6f3-4994-93a7-69ee1a2c7fd7" />
+<img width="1280" height="720" alt="3" src="https://github.com/user-attachments/assets/e80b90c2-5ff6-4f42-9ce0-945070575b7c" />
 
 ### A LIGIENCE Engineering Project
 
