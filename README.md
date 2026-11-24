@@ -1,4 +1,7 @@
-**# DIY Cordless Soldering Fume Extractor**
+<img width="4000" height="2252" alt="20261120_102649" src="https://github.com/user-attachments/assets/95f0daf5-bed6-442e-89b1-149b2c31a957" />**# DIY Cordless Soldering Fume Extractor**
+
+<img width="4000" height="2252" alt="20261120_102043" src="https://github.com/user-attachments/assets/2d73c2b1-b6f3-4994-93a7-69ee1a2c7fd7" />
+<img width="1280" height="720" alt="3" src="https://github.com/user-attachments/assets/e80b90c2-5ff6-4f42-9ce0-945070575b7c" />
 
 ### A LIGIENCE Engineering Project
 
@@ -201,21 +204,26 @@ The source code can be downloaded, modified, and uploaded to the Arduino Nano.
 
 ### Final Build
 
-![Soldering Fume Extractor - Front View](images/fume-extractor-front.jpg)
+![Soldering Fume Extractor - Front View](<img width="4000" height="2252" alt="20261120_102043" src="https://github.com/user-attachments/assets/005ca151-dff2-48dc-be8d-f59eec0161ac" />
+)
 
-![Soldering Fume Extractor - Workbench Setup](images/fume-extractor-workbench.jpg)
+![Soldering Fume Extractor - Workbench Setup](<img width="4000" height="2252" alt="20261120_102649" src="https://github.com/user-attachments/assets/c32a6890-54a9-41f5-b98a-10aab6bde420" />
+)
 
 ### Duct Accessory
 
-![Fume Extractor with Duct Accessory](images/fume-extractor-duct.jpg)
+![Fume Extractor with Duct Accessory](<img width="4000" height="2252" alt="20261120_102116" src="https://github.com/user-attachments/assets/b63b0cf3-a509-4954-8409-f290c6ea73a5" />
+)
 
 ### Circuit Schematic
 
-![Fume Extractor Circuit Schematic](images/fume-extractor-schematic.png)
+![Fume Extractor Circuit Schematic](
+)
 
 ### 3D Model & Mechanical Design
 
-![Fume Extractor Fusion 360 Model](images/fume-extractor-cad.png)
+![Fume Extractor Fusion 360 Model](<img width="1699" height="1061" alt="in fusion image" src="https://github.com/user-attachments/assets/797f388c-490d-4b84-8425-a70db73c59ad" />
+)
 
 ---
 
