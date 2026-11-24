@@ -202,21 +202,23 @@ The source code can be downloaded, modified, and uploaded to the Arduino Nano.
 
 ### Final Build
 
-![Soldering Fume Extractor - Front View](<img width="4000" height="2252" alt="20261120_102043" src="https://github.com/user-attachments/assets/005ca151-dff2-48dc-be8d-f59eec0161ac" />
-)
+![Soldering Fume Extractor - Front View]
+<img width="4000" height="2252" alt="20261120_102043" src="https://github.com/user-attachments/assets/005ca151-dff2-48dc-be8d-f59eec0161ac" />
 
-![Soldering Fume Extractor - Workbench Setup](<img width="4000" height="2252" alt="20261120_102649" src="https://github.com/user-attachments/assets/c32a6890-54a9-41f5-b98a-10aab6bde420" />
-)
+
+![Soldering Fume Extractor - Workbench Setup]
+<img width="4000" height="2252" alt="20261120_102649" src="https://github.com/user-attachments/assets/c32a6890-54a9-41f5-b98a-10aab6bde420" />
 
 ### Duct Accessory
 
-![Fume Extractor with Duct Accessory](<img width="4000" height="2252" alt="20261120_102116" src="https://github.com/user-attachments/assets/b63b0cf3-a509-4954-8409-f290c6ea73a5" />
-)
+![Fume Extractor with Duct Accessory]
+<img width="4000" height="2252" alt="20261120_102116" src="https://github.com/user-attachments/assets/b63b0cf3-a509-4954-8409-f290c6ea73a5" />
 
 ### Circuit Schematic
 
-![Fume Extractor Circuit Schematic](
-)
+![Fume Extractor Circuit Schematic]
+<img width="3189" height="2241" alt="Fume Extractor Schematics" src="https://github.com/user-attachments/assets/db6a2e55-8cce-4b80-a8b7-411b9ad5fca5" />
+
 
 ### 3D Model & Mechanical Design
 
